@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/swagger-api/swagger-editor">Swagger Editor</a></h1>0
+<h1 align="center"><a href="https://github.com/swagger-api/swagger-editor">Swagger Editor</a></h1>
 
 <h6 align="center">There is no place like 127.0.0.1</h6>
 
