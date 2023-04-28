@@ -1,0 +1,8 @@
+---
+version: '3.9'
+
+services:
+  editor:
+    image: swaggerapi/swagger-editor:unstable
+    ports:
+      - 7880:8080
